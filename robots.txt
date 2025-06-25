@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://snowrider-3dgame.github.io/sitemap.xml
